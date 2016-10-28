@@ -1,4 +1,4 @@
-# fire-bae
+# Number Guesser
 To install the dependencies:
 
 `npm install`
